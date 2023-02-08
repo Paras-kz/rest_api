@@ -7,7 +7,7 @@ Wrappers-
 
 serialization-
 
-    the process of converting any model objects or query set into
+    the process of converting any model for objects or query set into
     json or any data format as client req. These ser. class are of two types-
     -Serializer(serializer.serializer):
         in this we hv to wredifine all variables of models class
